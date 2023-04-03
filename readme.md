@@ -8,7 +8,7 @@ A design reflection about the representation of missing values.
 
 ## Get a shirt
 
-I stronly encourage you to print this shirt yourself or at a local printshop you trust.
+I strongly encourage you to print this shirt yourself or at a local printshop you trust.
 
 However, if you want me to shut up and take your money, [here is a shop](https://yetzt.myspreadshop.de/).
 
