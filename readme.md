@@ -6,6 +6,14 @@ A design reflection about the representation of missing values.
 
 * [Null Island (SVG)](./null-island.svg)
 
+![Not Found](./not-found.png)
+
+* [Not Found (SVG)](./not-found.svg)
+
+## Edit a shirt
+
+You can edit pngs or svgs on [Figma Template](https://www.figma.com/community/file/1341330409830387246) to make your own shirt
+
 ## Get a shirt
 
 I strongly encourage you to print this shirt yourself or at a local printshop you trust.
